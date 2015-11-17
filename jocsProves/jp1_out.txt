@@ -1,0 +1,72 @@
+BENVINGUT AL KENKEN MASTERS EDITION
+
+
+estic principi iniciar sessio
+Has d'iniciar sessio o registrar-te per jugar
+
+1: Iniciar sessio
+
+2: Registrar-me
+
+0:sortir
+Nom d'usuari: 
+
+Contrasenya: 
+estic despres de llegir usuari
+
+Tria que vols fer:
+
+
+1: Nova partida
+
+2: Resumir partida
+
+3: Consultar ranking
+
+0: Sortir
+
+
+Quin kenken vols?
+
+
+1: Kenken My Way
+
+2: Triar kenken guardat
+
+3: Jugar un kenken
+
+0: Tornar al menu
+
+digues tamany tauler 
+
+TAULER : 
+0000
+0000
+0000
+0000
+
+MATRIU DE IDENTIFICADORS DE REGIONS: 
+0  0  1  2  
+3  0  4  2  
+3  3  4  2  
+5  4  4  2  
+
+ MATRIU D'OPERACIONS: 
+*  *  +  +  
++  *  *  +  
++  +  *  +  
++  *  *  +  
+
+ID: 0  OBJECTIU: 18 
+ID: 1  OBJECTIU: 1 
+ID: 2  OBJECTIU: 10 
+ID: 3  OBJECTIU: 9 
+ID: 4  OBJECTIU: 24 
+ID: 5  OBJECTIU: 2 
+Selecciona accio :
+1: introduir valor de la pos x y 
+2: imprimir tauler per pantalla 
+3: comprovar el kenken
+4: demanar una ajuda
+8: guardar kenken
+9: QUIT
